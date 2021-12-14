@@ -1,0 +1,21 @@
+John Doe
+ID	Heure	Type d’enregistrement	Historique du taux de glucose (mg/dL)	Taux de glucose scanné (mg/dL)	Insuline à action rapide (sans valeur numérique)	Insuline à action rapide (unités)	Nourriture (sans valeur numérique)	Glucides (grammes)	Insuline à action lente (sans valeur numérique)	Insuline à action lente (unités)	Commentaires	Glycémie avec électrode de dosage (mg/dL)	Cétonémie (mmol/L)	Insuline repas (unités)	Insuline de correction (unités)	Insuline modifiée par l’utilisateur (unités)	Heure précédente	Heure mise à jour
+40344	2021/08/30 01:48	1		92														
+40348	2021/08/30 02:16	1		99														
+40354	2021/08/30 03:06	1		109														
+40360	2021/08/30 04:06	1		120														
+40371	2021/08/30 06:28	1		122														
+40388	2021/08/30 10:15	1		74														
+40390	2021/08/30 10:21	1		74														
+40393	2021/08/30 10:26	1		74														
+40401	2021/08/30 12:01	1		142														
+40411	2021/08/30 13:55	1		59														
+40419	2021/08/30 15:28	1		214														
+40429	2021/08/30 17:32	1		230														
+40434	2021/08/30 18:23	1		196														
+40439	2021/08/30 19:03	1		142														
+40441	2021/08/30 19:07	1		141														
+40449	2021/08/30 20:37	1		60														
+40453	2021/08/30 20:58	1		42														
+40457	2021/08/30 21:28	1		146														
+40461	2021/08/30 22:05	1		193	
