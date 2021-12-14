@@ -1,2 +1,2 @@
 # bootstrap_admin
-Django Bootstrap Free Admin Theme
+Django Glucose Reader
